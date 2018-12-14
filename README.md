@@ -1,2 +1,2 @@
-# -Hangman
- Hangman game with Java
+# Hangman
+ Hangman game with Java (Imperative)
